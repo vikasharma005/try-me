@@ -20,7 +20,7 @@ TryMe is a user-friendly tool that automates the process of generating JSON obje
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jegun19/try-me.git
+   git clone https://github.com/vikasharma005/try-me.git
    cd try-me
    ```
 
@@ -58,7 +58,7 @@ TryMe is a user-friendly tool that automates the process of generating JSON obje
 4. Upload your training data file in CSV format using the provided interface.
 5. Modify the feature values using the input fields accordingly. Or better, use the `Copy Value` button!
 6. Use the generated JSON object with your machine learning model for making predictions.
-7. For detailed usage and walkthrough, please refer to the [Wiki](https://github.com/jegun19/try-me/wiki) section of this repo.
+7. For detailed usage and walkthrough, please refer to the [Wiki](https://github.com/vikasharma005/try-me/wiki) section of this repo.
 
 ### License
 
