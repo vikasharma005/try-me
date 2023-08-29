@@ -1,0 +1,6 @@
+pandas
+xgboost
+fastapi
+pydantic
+python-multipart
+uvicorn
